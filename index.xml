@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aykhan&#39;s Blog</title>
+    <link>http://www.aykhan.dev/</link>
+    <description>Recent content on Aykhan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 22:38:37 +0100</lastBuildDate><atom:link href="http://www.aykhan.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>http://www.aykhan.dev/posts/firstpost/</link>
+      <pubDate>Mon, 27 Nov 2023 22:38:37 +0100</pubDate>
+      
+      <guid>http://www.aykhan.dev/posts/firstpost/</guid>
+      <description>Here&amp;rsquo;s a hello world program:
+#include &amp;lt;cstdio&amp;gt; int main() { std::puts(&amp;#34;Hello, World&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
